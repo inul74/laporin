@@ -20,6 +20,15 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+---
+
+## ⭐DO NOT FORGET TO STAR THIS REPO⭐
+
+---
+
+If you want to learn how to create it please follow below tutorial👇:
+➡ Tutorial Link 💚 "Albert Mends" Youtube Channel: [Build and Deploy a Crime Report App using Nextjs14, GeminiAI, Shadcn and TailwindCSS](https://www.youtube.com/watch?v=CF_oOKf5HJU)
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
